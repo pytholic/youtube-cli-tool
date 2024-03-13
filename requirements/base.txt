@@ -1,2 +1,1 @@
-numpy
-twine
+pytube==15.0.0
